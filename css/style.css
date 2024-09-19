@@ -1,0 +1,28 @@
+body {
+    background-color: #a7dbe3;
+    color: white;
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 70px;
+    color: #3747b3;
+}
+
+p{
+    color: #2f4c5c;
+}
+
+
+/* 
+    margin, border, padding
+    border-style is imp, cuz no default val, color & width has default val
+*/
+.box {
+    background: pink;
+    width: 300px;
+    margin: 100px;
+    border-width: 5px;
+    border-color: red;
+    border-style: solid;
+}
